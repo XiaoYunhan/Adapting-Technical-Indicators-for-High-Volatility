@@ -1,0 +1,95 @@
+Date 2023-10-31 23:59:00
+Final Portfolio Value: 1002.099999999999
+Total PnL: 1.6300000000000106
+Annualized Volatility: 0.5501930294627371
+Sharpe Ratio: 2.9625966028535546
+Total Trades: 582
+Total Turnover: 20585750037.0
+
+Date 2023-09-30 23:59:00
+Final Portfolio Value: 1006.0899999999989
+Total PnL: 5.980000000000101
+Annualized Volatility: 0.39694477650731474
+Sharpe Ratio: 15.0650678732131
+Total Trades: 573
+Total Turnover: 12126296287.0
+
+Date 2023-08-31 23:59:00
+Final Portfolio Value: 995.1099999999988
+Total PnL: -5.160000000000145
+Annualized Volatility: 0.6141750356139971
+Sharpe Ratio: -8.401513739225235
+Total Trades: 617
+Total Turnover: 21519550483.0
+
+Date 2023-07-31 23:59:00
+Final Portfolio Value: 1015.5800000000002
+Total PnL: 15.179999999999959
+Annualized Volatility: 0.778065902523568
+Sharpe Ratio: 19.509915485006296
+Total Trades: 670
+Total Turnover: 36459926160.0
+
+Date 2023-06-30 23:59:00
+Final Portfolio Value: 989.9600000000005
+Total PnL: -10.359999999999966
+Annualized Volatility: 0.7148511431301631
+Sharpe Ratio: -14.492527709525637
+Total Trades: 577
+Total Turnover: 20412788930.0
+
+Date 2023-05-31 23:59:00
+Final Portfolio Value: 1003.8699999999988
+Total PnL: 3.469999999999933
+Annualized Volatility: 0.4699604674120587
+Sharpe Ratio: 7.383599771930299
+Total Trades: 642
+Total Turnover: 16741442623.0
+
+Date 2023-04-30 23:59:00
+Final Portfolio Value: 1000.3600000000005
+Total PnL: 0.6299999999999658
+Annualized Volatility: 1.0176521231855147
+Sharpe Ratio: 0.6190720636713287
+Total Trades: 623
+Total Turnover: 62701979620.0
+
+Date 2023-03-31 23:59:00
+Final Portfolio Value: 997.0999999999993
+Total PnL: -3.309999999999958
+Annualized Volatility: 0.7978196130754318
+Sharpe Ratio: -4.148807507051103
+Total Trades: 611
+Total Turnover: 31390076138.0
+
+Date 2023-02-28 23:59:00
+Final Portfolio Value: 994.2399999999999
+Total PnL: -6.5800000000000765
+Annualized Volatility: 0.7103797204886206
+Sharpe Ratio: -9.262651804691375
+Total Trades: 579
+Total Turnover: 32150070041.0
+
+Date 2023-01-31 23:59:00
+Final Portfolio Value: 1012.409999999999
+Total PnL: 12.299999999999939
+Annualized Volatility: 0.8579212341824579
+Sharpe Ratio: 14.336980494160427
+Total Trades: 596
+Total Turnover: 40965904947.0
+
+Date 2022-12-31 23:59:00
+Final Portfolio Value: 973.7000000000013
+Total PnL: -26.169999999999924
+Annualized Volatility: 0.7745950499458569
+Sharpe Ratio: -33.78539535184116
+Total Trades: 568
+Total Turnover: 36816850421.0
+
+Date 2022-11-30 23:59:00
+Final Portfolio Value: 937.1500000000003
+Total PnL: -62.59000000000032
+Annualized Volatility: 1.752299829688469
+Sharpe Ratio: -35.718773088694434
+Total Trades: 533
+Total Turnover: 89412897896.0
